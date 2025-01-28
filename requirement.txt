@@ -7,3 +7,4 @@ pandas
 langchain-community
 langsmith
 pymongo
+langchain_ollama
