@@ -49,4 +49,4 @@ if __name__ == "__main__":
     import uvicorn
     port = settings.PORT or 8000
     host = "0.0.0.0"
-    uvicorn.run("main:app", host=host, port=port, reload=True)
+    uvicorn.run("main:app", host=host, port=port, reload=False)
