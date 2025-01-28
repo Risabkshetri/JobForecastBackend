@@ -18,7 +18,7 @@ class MongoManager:
         return cls._instance
 
     def initialize(self):
-        if not self._client:
+        if self._client is None:
             try:
                 self._client = MongoClient(
                     settings.MONGO_URI,
@@ -38,13 +38,13 @@ class MongoManager:
 
     @property
     def client(self) -> MongoClient:
-        if not self._client:
+        if self._client is None:
             self.initialize()
         return self._client
 
     @property
     def db(self) -> Database:
-        if not self._db:
+        if self._db is None:
             self.initialize()
         return self._db
 
