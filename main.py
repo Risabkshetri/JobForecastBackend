@@ -1,11 +1,10 @@
-from fastapi import FastAPI, Response
+from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.routes.job_routes import router as job_router
 from app.routes.report_routes import router as report_router
 from app.database import MongoManager
 import logging
 from app.config import settings
-import os
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -42,12 +41,11 @@ async def shutdown_event():
 app.include_router(job_router, prefix="/api/v1", tags=["jobs"])
 app.include_router(report_router, prefix="/api/v1", tags=["reports"])
 
-@app.get("/", methods=["GET", "HEAD"])
+@app.get("/")
 async def root():
     return {"message": "Job Market Forecasting API"}
 
 if __name__ == "__main__":
     import uvicorn
     port = settings.PORT or 8000
-    logger.info(f"Starting server on port {port}")
     uvicorn.run("main:app", host="0.0.0.0", port=port, reload=True)
