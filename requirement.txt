@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+langchain
+python-dotenv
+pandas
+langchain-community
+langsmith
+pymongo

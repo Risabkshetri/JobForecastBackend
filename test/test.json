@@ -1,0 +1,682 @@
+[
+  {
+    "industry": "Information Technology",
+    "country": "India",
+    "region": "Karnataka",
+    "city": "Bangalore",
+    "start_date": "2025-01-20T16:38:56.684Z",
+    "end_date": "2025-12-31T16:38:56.684Z",
+    "skills": [
+      "Cloud Computing",
+      "Machine Learning",
+      "Full Stack Development"
+    ],
+    "experience_level": "Mid",
+    "employment_type": "Full-time",
+    "market_summary": {
+      "forecast": "Bangalore's IT sector shows robust growth with increasing demand for cloud and AI professionals",
+      "confidence_score": 0.85,
+      "growth_trajectory": "Growing"
+    },
+    "demand_metrics": {
+      "current_demand": 9,
+      "projected_demand": 9.5,
+      "yoy_growth": 18.5,
+      "job_openings_estimate": 75000,
+      "competition_level": "High"
+    },
+    "skills_analysis": {
+      "required_skills": [
+        "Python",
+        "AWS",
+        "React"
+      ],
+      "emerging_skills": [
+        "Quantum Computing",
+        "Web3",
+        "Green Computing"
+      ],
+      "complementary_skills": [
+        "Project Management",
+        "System Design",
+        "DevOps"
+      ],
+      "skill_gap_score": 0.6
+    },
+    "salary_insights": {
+      "range_low": 800000,
+      "range_high": 2500000,
+      "median": 1500000,
+      "currency": "INR"
+    },
+    "market_factors": {
+      "positive_drivers": [
+        "Digital Transformation",
+        "Startup Ecosystem",
+        "Global IT Hub"
+      ],
+      "risk_factors": [
+        "Global Economic Uncertainty",
+        "Rapid Skill Obsolescence",
+        "Talent Wars"
+      ],
+      "industry_trends": [
+        "Remote Work",
+        "AI Integration",
+        "Cloud Migration"
+      ]
+    }
+  },
+  {
+    "industry": "Healthcare",
+    "country": "India",
+    "region": "Maharashtra",
+    "city": "Mumbai",
+    "start_date": "2025-01-20T16:38:56.684Z",
+    "end_date": "2025-12-31T16:38:56.684Z",
+    "skills": [
+      "Healthcare Management",
+      "Medical Technology",
+      "Patient Care"
+    ],
+    "experience_level": "Mid",
+    "employment_type": "Full-time",
+    "market_summary": {
+      "forecast": "Healthcare sector experiencing steady growth with focus on digital health integration",
+      "confidence_score": 0.75,
+      "growth_trajectory": "Stable"
+    },
+    "demand_metrics": {
+      "current_demand": 7,
+      "projected_demand": 8,
+      "yoy_growth": 12.5,
+      "job_openings_estimate": 45000,
+      "competition_level": "Moderate"
+    },
+    "skills_analysis": {
+      "required_skills": [
+        "Clinical Experience",
+        "Electronic Health Records",
+        "Healthcare Administration"
+      ],
+      "emerging_skills": [
+        "Telemedicine",
+        "AI Diagnostics",
+        "Health Informatics"
+      ],
+      "complementary_skills": [
+        "Patient Communication",
+        "Medical Compliance",
+        "Quality Assurance"
+      ],
+      "skill_gap_score": 0.5
+    },
+    "salary_insights": {
+      "range_low": 600000,
+      "range_high": 1800000,
+      "median": 1000000,
+      "currency": "INR"
+    },
+    "market_factors": {
+      "positive_drivers": [
+        "Digital Healthcare",
+        "Medical Tourism",
+        "Healthcare Infrastructure"
+      ],
+      "risk_factors": [
+        "Regulatory Changes",
+        "Cost Pressures",
+        "Skill Shortages"
+      ],
+      "industry_trends": [
+        "Digital Health Records",
+        "Preventive Care",
+        "Remote Healthcare"
+      ]
+    }
+  },
+  {
+    "industry": "Financial Services",
+    "country": "India",
+    "region": "Delhi NCR",
+    "city": "Gurgaon",
+    "start_date": "2025-01-20T16:38:56.684Z",
+    "end_date": "2025-12-31T16:38:56.684Z",
+    "skills": [
+      "Financial Analysis",
+      "Risk Management",
+      "Investment Banking"
+    ],
+    "experience_level": "Mid",
+    "employment_type": "Full-time",
+    "market_summary": {
+      "forecast": "Fintech revolution driving significant growth in financial services sector",
+      "confidence_score": 0.8,
+      "growth_trajectory": "Growing"
+    },
+    "demand_metrics": {
+      "current_demand": 8,
+      "projected_demand": 8.5,
+      "yoy_growth": 15.0,
+      "job_openings_estimate": 35000,
+      "competition_level": "High"
+    },
+    "skills_analysis": {
+      "required_skills": [
+        "Financial Planning",
+        "Banking Operations",
+        "Regulatory Compliance"
+      ],
+      "emerging_skills": [
+        "Blockchain",
+        "Digital Banking",
+        "RegTech"
+      ],
+      "complementary_skills": [
+        "Data Analytics",
+        "Risk Assessment",
+        "Client Relations"
+      ],
+      "skill_gap_score": 0.55
+    },
+    "salary_insights": {
+      "range_low": 700000,
+      "range_high": 2200000,
+      "median": 1300000,
+      "currency": "INR"
+    },
+    "market_factors": {
+      "positive_drivers": [
+        "Digital Payments",
+        "Financial Inclusion",
+        "Fintech Innovation"
+      ],
+      "risk_factors": [
+        "Market Volatility",
+        "Cybersecurity",
+        "Regulatory Changes"
+      ],
+      "industry_trends": [
+        "Mobile Banking",
+        "UPI Growth",
+        "Wealth Tech"
+      ]
+    }
+  },
+  {
+    "industry": "E-commerce",
+    "country": "India",
+    "region": "Telangana",
+    "city": "Hyderabad",
+    "start_date": "2025-01-20T16:38:56.684Z",
+    "end_date": "2025-12-31T16:38:56.684Z",
+    "skills": [
+      "Digital Marketing",
+      "Supply Chain",
+      "Business Analytics"
+    ],
+    "experience_level": "Mid",
+    "employment_type": "Full-time",
+    "market_summary": {
+      "forecast": "E-commerce sector expanding rapidly with increasing digital adoption",
+      "confidence_score": 0.82,
+      "growth_trajectory": "Growing"
+    },
+    "demand_metrics": {
+      "current_demand": 8.5,
+      "projected_demand": 9,
+      "yoy_growth": 20.0,
+      "job_openings_estimate": 40000,
+      "competition_level": "High"
+    },
+    "skills_analysis": {
+      "required_skills": [
+        "E-commerce Operations",
+        "Category Management",
+        "Digital Strategy"
+      ],
+      "emerging_skills": [
+        "AR Shopping",
+        "Voice Commerce",
+        "Social Commerce"
+      ],
+      "complementary_skills": [
+        "Customer Experience",
+        "Data Analysis",
+        "Inventory Management"
+      ],
+      "skill_gap_score": 0.45
+    },
+    "salary_insights": {
+      "range_low": 500000,
+      "range_high": 1800000,
+      "median": 1000000,
+      "currency": "INR"
+    },
+    "market_factors": {
+      "positive_drivers": [
+        "Digital Adoption",
+        "Mobile Commerce",
+        "Rural Market Growth"
+      ],
+      "risk_factors": [
+        "Logistics Challenges",
+        "Price Wars",
+        "Customer Retention"
+      ],
+      "industry_trends": [
+        "Quick Commerce",
+        "Personalization",
+        "Sustainable Packaging"
+      ]
+    }
+  },
+  {
+    "industry": "Manufacturing",
+    "country": "India",
+    "region": "Tamil Nadu",
+    "city": "Chennai",
+    "start_date": "2025-01-20T16:38:56.684Z",
+    "end_date": "2025-12-31T16:38:56.684Z",
+    "skills": [
+      "Production Management",
+      "Quality Control",
+      "Industrial Engineering"
+    ],
+    "experience_level": "Mid",
+    "employment_type": "Full-time",
+    "market_summary": {
+      "forecast": "Manufacturing sector modernizing with Industry 4.0 adoption",
+      "confidence_score": 0.7,
+      "growth_trajectory": "Stable"
+    },
+    "demand_metrics": {
+      "current_demand": 6,
+      "projected_demand": 7,
+      "yoy_growth": 10.0,
+      "job_openings_estimate": 25000,
+      "competition_level": "Moderate"
+    },
+    "skills_analysis": {
+      "required_skills": [
+        "Lean Manufacturing",
+        "Process Optimization",
+        "Equipment Maintenance"
+      ],
+      "emerging_skills": [
+        "IoT Integration",
+        "Smart Manufacturing",
+        "Robotics"
+      ],
+      "complementary_skills": [
+        "Supply Chain Management",
+        "ERP Systems",
+        "Team Leadership"
+      ],
+      "skill_gap_score": 0.65
+    },
+    "salary_insights": {
+      "range_low": 400000,
+      "range_high": 1500000,
+      "median": 800000,
+      "currency": "INR"
+    },
+    "market_factors": {
+      "positive_drivers": [
+        "Make in India",
+        "Export Growth",
+        "Automation"
+      ],
+      "risk_factors": [
+        "Raw Material Costs",
+        "Global Competition",
+        "Skill Gaps"
+      ],
+      "industry_trends": [
+        "Digital Manufacturing",
+        "Green Production",
+        "Supply Chain Optimization"
+      ]
+    }
+  },
+  {
+    "industry": "Renewable Energy",
+    "country": "India",
+    "region": "Gujarat",
+    "city": "Ahmedabad",
+    "start_date": "2025-01-20T16:38:56.684Z",
+    "end_date": "2025-12-31T16:38:56.684Z",
+    "skills": [
+      "Solar Technology",
+      "Wind Energy",
+      "Power Systems"
+    ],
+    "experience_level": "Mid",
+    "employment_type": "Full-time",
+    "market_summary": {
+      "forecast": "Renewable energy sector showing strong growth with government support",
+      "confidence_score": 0.85,
+      "growth_trajectory": "Growing"
+    },
+    "demand_metrics": {
+      "current_demand": 8,
+      "projected_demand": 9,
+      "yoy_growth": 25.0,
+      "job_openings_estimate": 20000,
+      "competition_level": "Moderate"
+    },
+    "skills_analysis": {
+      "required_skills": [
+        "Renewable Energy Systems",
+        "Project Management",
+        "Grid Integration"
+      ],
+      "emerging_skills": [
+        "Energy Storage",
+        "Smart Grid",
+        "Hydrogen Technology"
+      ],
+      "complementary_skills": [
+        "Environmental Assessment",
+        "Policy Knowledge",
+        "Technical Documentation"
+      ],
+      "skill_gap_score": 0.7
+    },
+    "salary_insights": {
+      "range_low": 500000,
+      "range_high": 1800000,
+      "median": 900000,
+      "currency": "INR"
+    },
+    "market_factors": {
+      "positive_drivers": [
+        "Green Energy Push",
+        "Government Incentives",
+        "Foreign Investment"
+      ],
+      "risk_factors": [
+        "Policy Changes",
+        "Infrastructure Gaps",
+        "Technology Costs"
+      ],
+      "industry_trends": [
+        "Solar Expansion",
+        "Battery Storage",
+        "Microgrids"
+      ]
+    }
+  },
+  {
+    "industry": "Biotechnology",
+    "country": "India",
+    "region": "Kerala",
+    "city": "Kochi",
+    "start_date": "2025-01-20T16:38:56.684Z",
+    "end_date": "2025-12-31T16:38:56.684Z",
+    "skills": [
+      "Molecular Biology",
+      "Research",
+      "Lab Techniques"
+    ],
+    "experience_level": "Mid",
+    "employment_type": "Full-time",
+    "market_summary": {
+      "forecast": "Biotech sector experiencing rapid growth with research expansion",
+      "confidence_score": 0.75,
+      "growth_trajectory": "Growing"
+    },
+    "demand_metrics": {
+      "current_demand": 7,
+      "projected_demand": 8,
+      "yoy_growth": 16.0,
+      "job_openings_estimate": 15000,
+      "competition_level": "Moderate"
+    },
+    "skills_analysis": {
+      "required_skills": [
+        "Biotechnology",
+        "Clinical Research",
+        "Data Analysis"
+      ],
+      "emerging_skills": [
+        "Gene Editing",
+        "Bioinformatics",
+        "Synthetic Biology"
+      ],
+      "complementary_skills": [
+        "Research Documentation",
+        "Laboratory Management",
+        "Quality Control"
+      ],
+      "skill_gap_score": 0.6
+    },
+    "salary_insights": {
+      "range_low": 450000,
+      "range_high": 1600000,
+      "median": 850000,
+      "currency": "INR"
+    },
+    "market_factors": {
+      "positive_drivers": [
+        "Research Investment",
+        "Healthcare Innovation",
+        "Government Support"
+      ],
+      "risk_factors": [
+        "Regulatory Compliance",
+        "Research Funding",
+        "Skill Availability"
+      ],
+      "industry_trends": [
+        "Personalized Medicine",
+        "Biotech Research",
+        "Healthcare Integration"
+      ]
+    }
+  },
+    {
+      "industry": "Aerospace and Defense",
+      "country": "India",
+      "region": "Uttar Pradesh",
+      "city": "Lucknow",
+      "start_date": "2025-01-20T16:38:56.684Z",
+      "end_date": "2025-12-31T16:38:56.684Z",
+      "skills": [
+        "Aerospace Engineering",
+        "Defense Systems",
+        "Aircraft Maintenance"
+      ],
+      "experience_level": "Mid",
+      "employment_type": "Full-time",
+      "market_summary": {
+        "forecast": "Defense sector experiencing growth due to indigenous manufacturing push",
+        "confidence_score": 0.77,
+        "growth_trajectory": "Growing"
+      },
+      "demand_metrics": {
+        "current_demand": 7,
+        "projected_demand": 8,
+        "yoy_growth": 14.5,
+        "job_openings_estimate": 12000,
+        "competition_level": "Moderate"
+      },
+      "skills_analysis": {
+        "required_skills": [
+          "Aircraft Systems",
+          "Defense Technologies",
+          "Systems Engineering"
+        ],
+        "emerging_skills": [
+          "Drone Technology",
+          "Avionics",
+          "Defense AI"
+        ],
+        "complementary_skills": [
+          "Project Management",
+          "Quality Assurance",
+          "Technical Documentation"
+        ],
+        "skill_gap_score": 0.75
+      },
+      "salary_insights": {
+        "range_low": 600000,
+        "range_high": 2000000,
+        "median": 1200000,
+        "currency": "INR"
+      },
+      "market_factors": {
+        "positive_drivers": [
+          "Defense Modernization",
+          "Make in India",
+          "Technology Transfer"
+        ],
+        "risk_factors": [
+          "Long Project Cycles",
+          "Security Clearances",
+          "Specialized Skills Gap"
+        ],
+        "industry_trends": [
+          "Indigenous Production",
+          "Defense Startups",
+          "Advanced Materials"
+        ]
+      }
+    },
+    {
+      "industry": "Agriculture Technology",
+      "country": "India",
+      "region": "Punjab",
+      "city": "Chandigarh",
+      "start_date": "2025-01-20T16:38:56.684Z",
+      "end_date": "2025-12-31T16:38:56.684Z",
+      "skills": [
+        "Precision Agriculture",
+        "Farm Management",
+        "AgriTech Solutions"
+      ],
+      "experience_level": "Mid",
+      "employment_type": "Full-time",
+      "market_summary": {
+        "forecast": "AgriTech sector showing promising growth with smart farming adoption",
+        "confidence_score": 0.79,
+        "growth_trajectory": "Growing"
+      },
+      "demand_metrics": {
+        "current_demand": 6,
+        "projected_demand": 7.5,
+        "yoy_growth": 19.0,
+        "job_openings_estimate": 8000,
+        "competition_level": "Low"
+      },
+      "skills_analysis": {
+        "required_skills": [
+          "Agricultural Science",
+          "IoT Applications",
+          "Data Analytics"
+        ],
+        "emerging_skills": [
+          "Drone Agriculture",
+          "Vertical Farming",
+          "Smart Irrigation"
+        ],
+        "complementary_skills": [
+          "Soil Management",
+          "Environmental Science",
+          "Project Implementation"
+        ],
+        "skill_gap_score": 0.65
+      },
+      "salary_insights": {
+        "range_low": 400000,
+        "range_high": 1400000,
+        "median": 750000,
+        "currency": "INR"
+      },
+      "market_factors": {
+        "positive_drivers": [
+          "Agricultural Modernization",
+          "Government Support",
+          "Sustainability Focus"
+        ],
+        "risk_factors": [
+          "Weather Dependency",
+          "Adoption Rates",
+          "Infrastructure Gaps"
+        ],
+        "industry_trends": [
+          "Precision Farming",
+          "Smart Irrigation",
+          "Agricultural IoT"
+        ]
+      }
+    },
+    {
+      "industry": "Space Technology",
+      "country": "India",
+      "region": "Andhra Pradesh",
+      "city": "Sriharikota",
+      "start_date": "2025-01-20T16:38:56.684Z",
+      "end_date": "2025-12-31T16:38:56.684Z",
+      "skills": [
+        "Rocket Engineering",
+        "Satellite Technology",
+        "Space Systems"
+      ],
+      "experience_level": "Mid",
+      "employment_type": "Full-time",
+      "market_summary": {
+        "forecast": "Space tech sector expanding with private sector participation",
+        "confidence_score": 0.83,
+        "growth_trajectory": "Growing"
+      },
+      "demand_metrics": {
+        "current_demand": 7,
+        "projected_demand": 8.5,
+        "yoy_growth": 22.0,
+        "job_openings_estimate": 5000,
+        "competition_level": "High"
+      },
+      "skills_analysis": {
+        "required_skills": [
+          "Spacecraft Systems",
+          "Launch Vehicle Design",
+          "Orbital Mechanics"
+        ],
+        "emerging_skills": [
+          "Small Satellites",
+          "Space Manufacturing",
+          "Reusable Technology"
+        ],
+        "complementary_skills": [
+          "Systems Integration",
+          "Mission Planning",
+          "Ground Operations"
+        ],
+        "skill_gap_score": 0.8
+      },
+      "salary_insights": {
+        "range_low": 700000,
+        "range_high": 2500000,
+        "median": 1400000,
+        "currency": "INR"
+      },
+      "market_factors": {
+        "positive_drivers": [
+          "Space Privatization",
+          "Satellite Demand",
+          "Research Investment"
+        ],
+        "risk_factors": [
+          "High Development Costs",
+          "Technical Complexity",
+          "Limited Talent Pool"
+        ],
+        "industry_trends": [
+          "Commercial Space",
+          "Satellite Constellations",
+          "Space Tourism"
+        ]
+      }
+    }
+]
